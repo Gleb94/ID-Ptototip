@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: white;
+    font-family: 'Montserrat', sans-serif;
+    color: #FFFFFF;
+}
+
+.pictured {
+    padding-top: 33px;
+    padding-bottom: 71px;
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.03) 2.5%, rgba(27, 30, 34, 0.4) 42.42%, #1B1E22 80.67%), url(../img/bg.jpg);
+    background-position: center;
+    background-size: cover;
+}
